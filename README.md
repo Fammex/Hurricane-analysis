@@ -1,2 +1,1 @@
-# Hurricane-analysis
-Codecademy Hurricane Analysis
+Description for Hurricane Analysis code
